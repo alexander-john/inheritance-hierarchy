@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Shawn/Desktop/small projects/inheritance-hierarchy/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\inheritance-hierarchy.dir\\main.cpp.obj -c \"C:\\Users\\Shawn\\Desktop\\small projects\\inheritance-hierarchy\\main.cpp\"",
+  "file": "C:/Users/Shawn/Desktop/small projects/inheritance-hierarchy/main.cpp",
+  "output": "CMakeFiles/inheritance-hierarchy.dir/main.cpp.obj"
+}
+]
